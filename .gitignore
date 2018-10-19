@@ -1,0 +1,11 @@
+#folder 
+node_modules/
+src/design/
+
+
+
+#files
+package.json
+package-lock.json
+gulpfile.js
+Task Description.docx
